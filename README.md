@@ -31,7 +31,7 @@ Datasets
   - Location
   - Victim Armed?
 
-## Secondary [Census.gov]
+# Secondary [Census.gov]
 - Mobile house rate
 - Vehicle ownership rate
 - Bachelor’s degree rate
@@ -121,11 +121,11 @@ One of the obstacles I see for the shooting trend now lowering is because the us
 
 # Summary
 - Are people of color being impacted the most?
-- Not at first glance. But Yes, black and Hispanic seem to be impacted the most.
+  - Not at first glance. But Yes, black and Hispanic seem to be impacted the most.
 - Are there any other socio-economic factors tied to shooting?
-- Not really.
+  - Not really.
 - How does the shooting trend will look like in the future?
-- The trend seems to continue.
+  - The trend seems to continue.
 
 
 
