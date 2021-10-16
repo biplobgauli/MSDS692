@@ -88,7 +88,7 @@ Let’s plot all this information in a combination chart and see if we get a ten
 
 ![1](https://github.com/biplobgauli/MSDS692/blob/main/10%20combo%20chart.PNG)
 
-Now lets’s get population count by state and see if that helps explain any of this. As soon as we add the population dataset, we now see a strong correlation between shooting count and population. Almost close to +. This makes sense that where there are more people, there will be more shootings.
+Now lets’s get population count by state and see if that helps explain any of this. As soon as we add the population dataset, we now see a strong correlation between shooting count and population. Almost close to +1. This makes sense that where there are more people, there will be more shootings.
 
 ![1](https://github.com/biplobgauli/MSDS692/blob/main/11%20corr%202.PNG)
 
@@ -115,7 +115,7 @@ This makes sense because the shooting count has stayed pretty consistent around 
 ![1](https://github.com/biplobgauli/MSDS692/blob/main/16%20historical%20trend.PNG)
 
 # Obstacle
-One of the obstacles I see for the shooting trend not tapering is because the use of body cams has stayed the same throughout the years. Maybe use of body cams would deter policemen from using appropriate level of action and not resolving to unnecessary shooting and violence.
+One of the obstacles I see for the shooting trend now lowering is because the use of body cams has stayed the same throughout the years. Maybe use of body cams would encourage policemen from using appropriate level of action and deter form resolving to unnecessary shooting and violence.
 
 ![1](https://github.com/biplobgauli/MSDS692/blob/main/18%20obstacle.PNG)
 
