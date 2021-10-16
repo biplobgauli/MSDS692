@@ -1,2 +1,3 @@
-# MSDS692
-Police Shooting Analysis in the US
+# Police Shooting in the US
+##Fact vs. Myth
+##MSDS 692 Practicum 1
