@@ -31,12 +31,12 @@ Datasets
   - Location
   - Victim Armed?
 
-# Secondary [Census.gov]
-- Mobile house rate
-- Vehicle ownership rate
-- Bachelor’s degree rate
-- Median income
-- Poverty rate
+- Secondary [Census.gov]
+  - Mobile house rate
+  - Vehicle ownership rate
+  - Bachelor’s degree rate
+  - Median income
+  - Poverty rate
 
 # Data prepping and tools
 - Jupiter notebook and Python
